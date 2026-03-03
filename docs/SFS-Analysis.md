@@ -6,5 +6,5 @@
 <img src="../static/precip.png" alt="teleconnections-precip" width="330">    <img src="../static/wind.png" alt="teleconnections-wind" width="330">
   
   
-<img src="../static/rws.png" alt="teleconnections-rws" width="300">  
+<img src="../static/rws.png" alt="teleconnections-rws" width="330">  
     
