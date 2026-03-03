@@ -7,4 +7,9 @@
   
   
 <img src="../static/rws.png" alt="teleconnections-rws" width="330">  
+
+
+ENSO Index                 |  ENSO Saturation
+:-------------------------:|:-------------------------:
+![](../static/index.png)   |  ![](../static/saturation.png)
     
