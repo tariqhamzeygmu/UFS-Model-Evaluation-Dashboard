@@ -3,7 +3,7 @@
 <img src="../static/index.png" alt="enso-index" width="300">  
   
 
-<img src="../static/rmse.png" alt="enso-rmse" width="300">  
+<img src="../static/saturation.png" alt="enso-rmse" width="300">  
 
   
 <img src="../static/precip.png" alt="teleconnections-precip" width="300">  
