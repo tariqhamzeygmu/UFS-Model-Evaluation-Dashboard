@@ -2,6 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-.page {
+.section {
   width: calc(100% - #{$right-sidebar-width-narrow});
+  float: right;
 }
