@@ -1,4 +1,4 @@
 ---
 ---
 @import "{{ site.theme }}";
-$max-width:1440px;
+$max-width: calc(100vw - 200px);
