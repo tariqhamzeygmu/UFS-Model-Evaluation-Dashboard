@@ -2,6 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-.inner {
-  max-width: 75%;
+.wrapper {
+  max-width: 1200px; /* Adjust to your desired width or use 'none' for full width */
+  margin: 0 auto; /* Keeps content centered */
+}
+section {
+  max-width: 900px; /* Adjust as needed */
+  float: none; /* Adjust floating properties if necessary */
 }
