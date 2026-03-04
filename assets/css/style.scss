@@ -3,10 +3,12 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  max-width: none; /* Adjust to your desired width or use 'none' for full width */
-  margin: 0 auto; /* Keeps content centered */
+  width:860px;
+  margin:0 auto;
 }
+
 section {
-  max-width: none; /* Adjust as needed */
-  float: none; /* Adjust floating properties if necessary */
+  width:500px;
+  float:right;
+  padding-bottom:50px;
 }
