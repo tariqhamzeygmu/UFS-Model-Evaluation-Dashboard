@@ -1,6 +1,6 @@
 # Seasonal Forecast System (SFS)
 
-|               |       |
+|  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
 |--------------------------|-------------------------|
 | <b>ENSO Index</b><br><img src="../static/index.png" alt="enso-index" width="200" style="border: 1px solid black">   | Github:<br>[ens](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-ens_means.ipynb) [baseline](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-baseline.ipynb) [beta01](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-beta.0.1.ipynb) [c96beta01](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-c96_beta.0.1.ipynb) [cpcics](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-cpc_ics.ipynb)<br><br>Binder: <br><br>Colab: |
 | <b>ENSO RMSE</b><br><img src="../static/saturation.png" alt="enso-rmse" width="200" style="border: 1px solid black">   | Github:<br>[rmse](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-rmse.ipynb)<br><br>Binder: <br><br>Colab: |
