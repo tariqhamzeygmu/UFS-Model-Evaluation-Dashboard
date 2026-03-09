@@ -1,5 +1,5 @@
 ---
-title: "Title Strip Test Post"
+title: "Seasonal Forecast System"
 ---
 
 |  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
