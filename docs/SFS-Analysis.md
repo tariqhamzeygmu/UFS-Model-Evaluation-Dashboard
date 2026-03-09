@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Forecast System"
+title: "Seasonal Forecast System (SFS)"
 ---
 
 |  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
