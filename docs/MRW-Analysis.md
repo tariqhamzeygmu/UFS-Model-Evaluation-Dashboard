@@ -1,1 +1,3 @@
-# Medium Range Weather (MRW)
+---
+title: "Medium Range Weather (MRW)"
+---
