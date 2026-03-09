@@ -1,1 +1,3 @@
-# Sub-seasonal to Seasonal (S2S)
+---
+title: "Sub-seasonal to Seasonal (S2S)"
+---
