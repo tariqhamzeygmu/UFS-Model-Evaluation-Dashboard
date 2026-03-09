@@ -8,7 +8,7 @@ plugins:
 
 # set up remote_theme
 # remote_theme: jekyll/minima@2.5.2
-gem "minima", github: "jekyll/minima"
+remote_theme: jekyll/minima
 
 minima:
   skins: classic
