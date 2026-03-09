@@ -1,5 +1,7 @@
 title: 'UFS Model Evaluation Dashbaord'
 theme: minima
+minima:
+  skins: classic
 
 author:
   name: Cristiana Stan
