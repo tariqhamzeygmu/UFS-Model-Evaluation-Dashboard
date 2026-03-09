@@ -1,4 +1,6 @@
-## Seasonal Forecast System (SFS)
+---
+title: "Title Strip Test Post"
+---
 
 |  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
 | --- | --- |
