@@ -3,7 +3,7 @@ title: "Seasonal Forecast System (SFS)"
 ---
 
 <details>
-  <summary>Click to expand the table</summary>
+  <summary>ENSO Analysis</summary>
 
 
 |  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
