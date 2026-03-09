@@ -1,5 +1,6 @@
-title: 'UFS Model Evaluation Dashbaord'
-theme: minima
+title: 'UFS Model Evaluation Dashboard'
+# theme: minima
+remote_theme: jekyll/minima@v2.5.1
 minima:
   skins: classic
 
@@ -10,6 +11,7 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
   
 description: This website displays community driven analysis of reforecasts with experimental versions of UFS applications.
 
