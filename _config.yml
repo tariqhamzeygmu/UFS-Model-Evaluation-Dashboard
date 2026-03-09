@@ -1,23 +1,22 @@
 title: 'UFS Model Evaluation Dashboard'
-# theme: minima
-
 plugins:
   - jekyll-remote-theme
 
 # set up remote_theme
-# remote_theme: jekyll/minima@2.5.2
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@2.5.2
 
 minima:
   skins: classic
 
-author:
-  name: Cristiana Stan
-  email: cstan@gmu.edu
+# This should work with v3
+# author:
+#   name: Cristiana Stan
+#   email: cstan@gmu.edu
   
 description: This website displays community driven analysis of reforecasts with experimental versions of UFS applications.
 
-social_links:
-  - title: UFS-Analysis GitHub Repository
-    icon: github
-    url: "https://github.com/ufs-community/ufs-analysis/tree/sfs-analysis"
+# This should work with v3
+# social_links:
+#   - title: UFS-Analysis GitHub Repository
+#     icon: github
+#     url: "https://github.com/ufs-community/ufs-analysis/tree/sfs-analysis"
