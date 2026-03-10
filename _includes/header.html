@@ -4,7 +4,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a href="{{ "/" | relative_url }}"><img class="site-masthead" src="{{ "/static/UFS-Logo-RGB-2csolidshorizontal-72dpi.png" | relative_url }}" alt="{{ site.title | escape }}" width="300" /></a>
-
+    <p>hello world</p>
+    
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
