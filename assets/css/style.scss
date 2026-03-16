@@ -10,3 +10,8 @@ a:hover {
 a {
   color: #47975D;
 }
+
+body .tablelines table, 
+body .tablelines td {
+    vertical-align: top;
+}
